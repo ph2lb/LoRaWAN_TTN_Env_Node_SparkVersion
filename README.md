@@ -1,4 +1,4 @@
-# LoRaWAN_TTN_Env_Node
+# LoRaWAN_TTN_Env_Node_SparkVersion
 
 Description : 
  - A low power BME280 based enviromental datalogger node for the ThingsNetwork with deepsleep support and variable interval using a LMIC ABP. Compatible with https://github.com/ph2lb/LoRaWAN_TTN_Env 
