@@ -4,7 +4,7 @@ Description :
  - A low power BME280 based enviromental datalogger node for the ThingsNetwork with deepsleep support and variable interval using a LMIC ABP. Compatible with https://github.com/ph2lb/LoRaWAN_TTN_Env 
  
 Revision : 
- - 2017-jul-17 1.1 changed BME280 library to SparkFun BME280 library (safes 200 byte flash and 12 bytes ram)
+ - 2017-nov-2  1.1 changed BME280 library to SparkFun BME280 library (safes 200 byte flash and 12 bytes ram)
  - 2017-jul-17 1.0 first "beta" 
  
 Hardware used : 
