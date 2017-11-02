@@ -4,6 +4,7 @@ Description :
  - A low power BME280 based enviromental datalogger node for the ThingsNetwork with deepsleep support and variable interval using a LMIC ABP. Compatible with https://github.com/ph2lb/LoRaWAN_TTN_Env 
  
 Revision : 
+ - 2017-jul-17 1.1 changed BME280 library to SparkFun BME280 library (safes 200 byte flash and 12 bytes ram)
  - 2017-jul-17 1.0 first "beta" 
  
 Hardware used : 
@@ -17,7 +18,7 @@ Software and libraries used :
  - MiniCore loader  https://forum.arduino.cc/index.php?topic=412070 https://github.com/MCUdude/MiniCore 
    To use a brownout detection of 1.8V.
  - special adcvcc library from Charles (see : https://www.thethingsnetwork.org/forum/t/full-arduino-mini-lorawan-and-1-3ua-sleep-mode/8059/32?u=lex_ph2lb )
- - BME280 library https://github.com/finitespace/BME280
+ - SparkFun BME280 library https://github.com/sparkfun/SparkFun_BME280_Arduino_Library/
  
 For licenses of the used libraries, check the links above.
  
